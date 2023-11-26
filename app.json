@@ -13,7 +13,7 @@
       ],
     "repository": "https://github.com/DeekshithSH/TG-FileStreamBot",
     "success_url": "/",
-    "website": "telegram-014x.onrender.com",
+    "website": "nullbr.eu.org",
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",
